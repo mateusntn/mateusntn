@@ -1,16 +1,19 @@
-### Hi there 👋
+# Mateus Antonio
 
-<!--
-**mateusntn/mateusntn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Olá pessoal 👋
 
-Here are some ideas to get you started:
+Gosto de resolver problemas usando lógica e tecnologia, e quando acompanhado por outras pessoas, fica ainda melhor.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Busco adquirir experiências como desenvolvedor, e sempre receber e compartilhar conhecimentos.
+
+<!-- - 🚀 Estou trabalhando como estagiário na **Avanade** 🧡 -->
+
+- 💻 Atualmente estou estudando ReactJS e Node.js
+
+- 💬 Sobre mim: Curto tecnologias, games CS:GO e praticar esportes
+
+✉️ Entre em contato comigo:
+
+[![Linkedin Badge](https://img.shields.io/badge/-MateusAntonio-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mateusantonio-/)](https://www.linkedin.com/in/mateusantonio-/)
+
+[![Gmail Badge](https://img.shields.io/badge/-mateusantoniodev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mateusantoniodev@gmail.com)](mailto:mateusantoniodev@gmail.com)
