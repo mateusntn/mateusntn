@@ -10,7 +10,7 @@ Busco adquirir experiências como desenvolvedor, e sempre receber e compartilhar
 
 - 💻 Atualmente estou estudando ReactJS e Node.js
 
-- 💬 Sobre mim: Curto tecnologias, games CS:GO e praticar esportes
+- 💬 Sobre mim: Curto tecnologias, games e praticar esportes
 
 ✉️ Entre em contato comigo:
 
