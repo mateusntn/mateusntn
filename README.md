@@ -6,11 +6,9 @@ Gosto de resolver problemas usando lógica e tecnologia, e quando acompanhado po
 
 Busco adquirir experiências como desenvolvedor, e sempre receber e compartilhar conhecimentos.
 
-<!-- - 🚀 Estou trabalhando como estagiário na **Avanade** 🧡 -->
+- 💻 Atualmente estou estudando C# e Angular.
 
-- 💻 Atualmente estou estudando ReactJS e Node.js
-
-- 💬 Sobre mim: Curto tecnologias, games e praticar esportes
+- 💬 Sobre mim: Curto tecnologias, games e praticar esportes.
 
 ✉️ Entre em contato comigo:
 
