@@ -2,8 +2,6 @@
 
 ### Olá pessoal 👋
 
-Gosto de resolver problemas usando lógica e tecnologia, e quando acompanhado por outras pessoas, fica ainda melhor.
-
 Busco adquirir experiências como desenvolvedor, e sempre receber e compartilhar conhecimentos.
 
 - 💻 Atualmente estou estudando C# e Angular.
