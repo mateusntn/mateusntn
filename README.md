@@ -4,7 +4,7 @@
 
 Busco adquirir experiências como desenvolvedor, e sempre receber e compartilhar conhecimentos.
 
-- 💻 Atualmente estou estudando C# e Angular.
+- 💻 Atualmente estou estudando C#.
 
 - 💬 Sobre mim: Curto tecnologias, games e praticar esportes.
 
