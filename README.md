@@ -1,7 +1,7 @@
 # Mateus Antonio
 
-### Hello World 👋😄
-Meu nome é Mateus Antonio, tenho 19 anos. Sou estagiário back-end na avanade, atualmente trabalho com C#.
+## Hello World 👋😄
+Meu nome é Mateus Antonio, tenho 19 anos. Sou desenvolvedor C# na avanade e estudante de Análise e Desenvolvimento de Sistemas.
  <div>
   <a href="https://github.com/mateusntn">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateusntn&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
