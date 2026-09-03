@@ -3,11 +3,6 @@
 ## Hello World 👋😄
 Nasci em Paulista-PE, tenho 24 anos, cursei meu ensino médio na Escola Estadual de Paulista e sou graduado em Análise e Desenvolvimento De Sistemas na faculdade Senac-PE em parceria com o Porto Digital.
 Iniciei minha carreira como estagiário na Avanade, e hoje sou Desenvolvedor FullStack Senior. Gosto de encontrar soluções com tecnologia, e ver funcionando algo em que eu colaborei na criação me motiva. Busco adquirir experiências como desenvolvedor, e sempre receber e compartilhar conhecimentos.
- <div>
-  <a href="https://github.com/mateusntn">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mateusntn&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusntn&layout=compact&langs_count=4&theme=dark"/>
-</div>
   
 <div style="width: 49%;"><br>
   <img align="center" alt="Mateus-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
